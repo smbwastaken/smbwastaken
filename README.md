@@ -1,20 +1,22 @@
 Howdy, I'm SMB.
 
-# INFO
+# Info
 **First name:** Sami
 **Preferred name:** SMB
 **Gender & pronouns:** Cis male, he/him
 
-# SKILLS
+# Skills
 
 ## Important hard skills
 I'm a:
+
 - Freelancer
 - Web developer/designer
 - Graphic designer
 
 ## Other hard skills
 I'm also a:
+
 - Musician
   - Guitarist
   - Pianist
@@ -28,12 +30,14 @@ I'm also a:
       
 ## Soft skills
 I'm a:
+
 - Horse rider (I do showjumping specifically)
  
-# CODING
+# Coding
 
 ## Languages I know
 I know:
+
 - HTML
 - CSS
 
@@ -42,8 +46,9 @@ I'm:
   - Currently learning **Swift**
   - On my way to finish learning **JavaScript**
 
-# REACH ME OUT?
+# Reach me out?
 Contact me at:
+
 - **My emails:**
   - sami.bellabed.9@gmail.com
   - samibellabed@outlook.com
@@ -56,7 +61,8 @@ Contact me at:
 
 **Note:** My own self-made portfolio website is currently a work in progress.
 
-# THERE YOU GO!
+# There you go!
+
 Thanks for reading to get to know me, and don't mind my boring neutral README.md, I'm a fun guy :)
 
 🔵🟡
