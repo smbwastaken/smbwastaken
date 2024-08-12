@@ -1,9 +1,11 @@
 Howdy, I'm SMB.
 
 # Info
-- **First name:** Sami
-- **Preferred name:** SMB
-- **Gender & pronouns:** Cis male, he/him
+**First name:** Sami
+
+**Preferred name:** SMB
+
+**Gender & pronouns:** Cis male, he/him
 
 # Skills
 
@@ -12,7 +14,7 @@ I'm a:
 
 - Freelancer
 - Web developer/designer
-- Graphic designer
+- Graphic designer 
 
 ## Other hard skills
 I'm also a:
@@ -55,8 +57,8 @@ Contact me at:
   - samibellabed@icloud.com
   - samibellabed@yahoo.com
 - **Socials:**
-  - **Discord:** @smbwastaken
-  - **Twitter/X:** @SMB_Was_Taken
+  - **Discord:** [@smbwastaken](https://discordapp.com/users/348466555786362880)
+  - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
 - **Website (_not self-made_):** https://resite.link/SMB
 
 **Note:** My own self-made portfolio website is currently a work in progress.
