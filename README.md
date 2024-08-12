@@ -1,9 +1,9 @@
 Howdy, I'm SMB.
 
 # Info
-**First name:** Sami
-**Preferred name:** SMB
-**Gender & pronouns:** Cis male, he/him
+- **First name:** Sami
+- **Preferred name:** SMB
+- **Gender & pronouns:** Cis male, he/him
 
 # Skills
 
