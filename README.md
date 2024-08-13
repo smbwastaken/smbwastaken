@@ -61,8 +61,6 @@ Contact me at:
   - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
 - **Website (_not self-made_):** https://resite.link/SMB
 
-
-
 > [!NOTE]
 > My own self-made portfolio website is currently a work in progress.
 
