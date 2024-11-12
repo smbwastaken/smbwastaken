@@ -59,7 +59,9 @@ Contact me at:
 - **Socials:**
   - **Discord:** [@smbwastaken](https://discordapp.com/users/348466555786362880)
   - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
-- **Website (_not self-made_):** https://resite.link/SMB
+- **Websites:
+  - **For links (_not self-made_):** [My Resite.link - https://smbwastaken.github.io/SMBLOG](https://resite.link/SMB)
+  - **Blog (_self-made_):** [SMBLOG - https://smbwastaken.github.io/SMBLOG](https://smbwastaken.github.io/SMBLOG)
 
 > [!NOTE]
 > My own self-made portfolio website is currently a work in progress.
