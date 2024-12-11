@@ -62,7 +62,7 @@ Contact me at:
 
 - **Self-made websites:
   - **Portfolio:** [SMB &ndash; smb.im](https://www.smb.im/)
-  - **Blog:** [SMBLOG &ndash;_blog.smb.im](https://blog.smb.im/)
+  - **Blog:** [SMBLOG &ndash; blog.smb.im](https://blog.smb.im/)
 
 > [!NOTE]
 > My own self-made portfolio website is currently a work in progress.
