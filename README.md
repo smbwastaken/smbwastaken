@@ -58,11 +58,11 @@ Contact me at:
   - **Discord:** [@smbwastaken](https://discordapp.com/users/348466555786362880)
   - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
   - **Bluesky (bsky server):** [@smbwastaken.bsky.social](https://bsky.app/smbwastaken.bsky.social)
-  - **For more links:** [My Resite.link -_resite.link/SMB](https://resite.link/SMB)
+  - **For more links:** [My Resite.link &ndash; resite.link/SMB](https://resite.link/SMB)
 
 - **Self-made websites:
-  - **Portfolio:** [SMB - smb.im](https://www.smb.im/)
-  - **Blog:** [SMBLOG -_blog.smb.im](https://blog.smb.im/)
+  - **Portfolio:** [SMB &ndash; smb.im](https://www.smb.im/)
+  - **Blog:** [SMBLOG &ndash;_blog.smb.im](https://blog.smb.im/)
 
 > [!NOTE]
 > My own self-made portfolio website is currently a work in progress.
