@@ -51,17 +51,18 @@ I'm:
 # Reach me out?
 Contact me at:
 
-- **My emails:**
-  - sami.bellabed.9@gmail.com
-  - samibellabed@outlook.com
+- **My work email:**
   - samibellabed@icloud.com
-  - samibellabed@yahoo.com
+
 - **Socials:**
   - **Discord:** [@smbwastaken](https://discordapp.com/users/348466555786362880)
   - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
-- **Websites:
-  - **For links (_not self-made_):** [My Resite.link - _https://resite.link/SMB_](https://resite.link/SMB)
-  - **Blog (_self-made_):** [SMBLOG - _https://smbwastaken.github.io/SMBLOG_](https://smbwastaken.github.io/SMBLOG)
+  - **Bluesky (bsky server):** [@smbwastaken.bsky.social](https://bsky.app/smbwastaken.bsky.social)
+  - **For more links:** [My Resite.link - _https://resite.link/SMB_](https://resite.link/SMB)
+
+- **Self-made websites:
+  - **Portfolio:** [SMB - smb.im](https://www.smb.im/)
+  - **Blog:** [SMBLOG -_blog.smb.im](https://blog.smb.im/)
 
 > [!NOTE]
 > My own self-made portfolio website is currently a work in progress.
