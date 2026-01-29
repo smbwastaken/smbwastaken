@@ -50,7 +50,7 @@ Contact me at:
 - **Socials:**
   - **Discord:** [@smbwastaken](https://discordapp.com/users/348466555786362880)
   - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
-  - **Bluesky:** [@smb.im](https://bsky.app/smb.im)
+  - **Bluesky:** [@smb.im](https://bsky.app/profile/smb.im)
 
 - **Self-made websites:
   - **Personal:** [SMB &ndash; smb.im](https://www.smb.im/)
