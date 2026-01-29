@@ -6,16 +6,21 @@
 I do freelance, raster art commissions, web development, and vector graphic & UI/UX design. 
 
 # Skills
-- Musician
+- Musician (Musescore, Logic Pro)
   - Guitarist
   - Pianist
   - Music theorist
   - Music composer
-- Digital artist
+- Digital artist (Procreate, Procreate Dreams)
   - Cartoonist
   - Illustrator
   - Pixel artist
   - 2D animator
+- Designer (Affinity)
+  - Logo design
+  - UI/UX design
+  - Type design
+  - Web design
 - Phonetics and typography enthuiast
       
 **Extra**
