@@ -17,7 +17,7 @@ I do freelance, raster art commissions, web development, and vector graphic & UI
   - Pixel artist
   - 2D animator
       
-## Extra
+**Extra**
 - Horse riding (I'm a showjumping athlete)
 
 ## Languages I know
