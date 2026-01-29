@@ -36,6 +36,7 @@ I do freelance, raster art commissions, web development, and vector graphic & UI
 ## Markup
 - HTML
 - LaTeX
+- Markdown
 
 ## Stylesheet
 - CSS
