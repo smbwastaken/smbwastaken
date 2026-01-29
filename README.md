@@ -16,22 +16,23 @@ I do freelance, raster art commissions, web development, and vector graphic & UI
   - Illustrator
   - Pixel artist
   - 2D animator
+- Phonetics and typography enthuiast
       
 **Extra**
 - Horse riding (I'm a showjumping athlete)
 
-## Languages I know
-### Programming
+# Languages I know
+## Programming
 - C
 - JavaScript
 - Swift
 - Pascal
 
-### Markup
+## Markup
 - HTML
 - LaTeX
 
-### Stylesheet
+## Stylesheet
 - CSS
 
 # Reach me out?
