@@ -1,24 +1,11 @@
-Howdy, I'm SMB.
-
 # Info
 **First name:** Sami
-
 **Preferred name:** SMB
+**Pronouns:** he/him
 
-**Gender & pronouns:** Cis male, he/him
+I do freelance, raster art commissions, web development, and vector graphic & UI/UX design. 
 
 # Skills
-
-## Important hard skills
-I'm a:
-
-- Freelancer
-- Web developer/designer
-- Graphic designer 
-
-## Other hard skills
-I'm also a:
-
 - Musician
   - Guitarist
   - Pianist
@@ -30,23 +17,22 @@ I'm also a:
   - Pixel artist
   - 2D animator
       
-## Soft skills
-I'm a:
-
-- Horse rider (I do showjumping specifically)
- 
-# Coding
+## Extra
+- Horse riding (I'm a showjumping athlete)
 
 ## Languages I know
-I know:
+### Programming
+- C
+- JavaScript
+- Swift
+- Pascal
 
+### Markup
 - HTML
-- CSS
+- LaTeX
 
-## Learning
-I'm:
-  - Currently learning ***Swift***
-  - On my way to finish learning ***JavaScript***
+### Stylesheet
+- CSS
 
 # Reach me out?
 Contact me at:
@@ -57,18 +43,17 @@ Contact me at:
 - **Socials:**
   - **Discord:** [@smbwastaken](https://discordapp.com/users/348466555786362880)
   - **Twitter/X:** [@SMB_Was_Taken](https://x.com/SMB_was_taken)
-  - **Bluesky (bsky server):** [@smbwastaken.bsky.social](https://bsky.app/smbwastaken.bsky.social)
-  - **For more links:** [My Resite.link &ndash; resite.link/SMB](https://resite.link/SMB)
+  - **Bluesky (bsky server):** [@smb.im](https://bsky.app/smb.im)
 
 - **Self-made websites:
-  - **Portfolio:** [SMB &ndash; smb.im](https://www.smb.im/)
+  - **Personal:** [SMB &ndash; smb.im](https://www.smb.im/)
   - **Blog:** [SMBLOG &ndash; blog.smb.im](https://blog.smb.im/)
 
 > [!NOTE]
-> My own self-made portfolio website is currently a work in progress.
+> My website is currently a work in progress.
 
 # There you go!
 
-Thanks for reading to get to know me, and don't mind my boring neutral README.md, I'm a fun guy :)
+Thanks for reading, and don't mind my boring neutral README.md, I'm a fun guy :)
 
 ### 🔵🟡
